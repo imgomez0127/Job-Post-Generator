@@ -1,0 +1,738 @@
+1552198359333	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.0cOrHXNrU8RG"
+*** You are running in headless mode.
+1552198361012	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552198361012	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552198363529	Marionette	INFO	Listening on port 36467
+1552198363545	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552198365193	Marionette	INFO	Stopped listening on port 36467
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 11300, Gecko_IOThread] WARNING: pipe error (61): Connection reset by peer: file /build/src/firefox-65.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1552198445960	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Oput070VO8tV"
+*** You are running in headless mode.
+1552198446252	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552198446252	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552198447192	Marionette	INFO	Listening on port 34611
+1552198447268	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552198448805	Marionette	INFO	Stopped listening on port 34611
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+[Child 11839, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/src/firefox-65.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+1552198465462	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1Vy8jwoPqPnW"
+*** You are running in headless mode.
+1552198465748	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552198465748	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552198466760	Marionette	INFO	Listening on port 43091
+1552198466769	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552198469362	Marionette	INFO	Stopped listening on port 43091
+[Parent 12037, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/src/firefox-65.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+[Parent 12037, Gecko_IOThread] WARNING: pipe error (63): Connection reset by peer: file /build/src/firefox-65.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1552198486060	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.diPRg0g7liy7"
+*** You are running in headless mode.
+1552198486346	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552198486351	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552198487298	Marionette	INFO	Listening on port 34449
+1552198487366	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552198488585	Marionette	INFO	Stopped listening on port 34449
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1552198502201	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.GRVmGcL3gaLU"
+*** You are running in headless mode.
+1552198502490	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552198502490	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552198503465	Marionette	INFO	Listening on port 40507
+1552198503513	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552198504483	Marionette	INFO	Stopped listening on port 40507
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 12752, Gecko_IOThread] WARNING: pipe error (123): Connection reset by peer: file /build/src/firefox-65.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1552198580320	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Vug7FUyO5FeG"
+*** You are running in headless mode.
+1552198580607	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552198580607	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552198581550	Marionette	INFO	Listening on port 34557
+1552198581627	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552198583321	Marionette	INFO	Stopped listening on port 34557
+[Child 13326, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/src/firefox-65.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Child 13326, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/src/firefox-65.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1552198629469	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.lzpac3znF3Tk"
+*** You are running in headless mode.
+1552198629755	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552198629755	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552198630743	Marionette	INFO	Listening on port 41135
+1552198630779	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552198632649	Marionette	INFO	Stopped listening on port 41135
+[Parent 13558, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/src/firefox-65.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5F0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 13724, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/src/firefox-65.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1552213441602	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.slKSf3R8wzE4"
+*** You are running in headless mode.
+1552213443684	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552213443684	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552213446280	Marionette	INFO	Listening on port 33333
+1552213446331	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552213449204	Marionette	INFO	Stopped listening on port 33333
+1552213466248	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.X6zpOi9aWfod"
+*** You are running in headless mode.
+1552213466574	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552213466575	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552213467630	Marionette	INFO	Listening on port 33861
+1552213467665	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552213469886	Marionette	INFO	Stopped listening on port 33861
+1552213493331	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.efXenVCTASGe"
+*** You are running in headless mode.
+1552213493648	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552213493649	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552213494586	Marionette	INFO	Listening on port 45389
+1552213494637	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552213496062	Marionette	INFO	Stopped listening on port 45389
+[Parent 4602, Gecko_IOThread] WARNING: pipe error (114): Connection reset by peer: file /build/src/firefox-65.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1552213551901	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.RpUoMEtrhJOn"
+*** You are running in headless mode.
+1552213552181	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552213552181	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552213553118	Marionette	INFO	Listening on port 36165
+1552213553206	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552213554370	Marionette	INFO	Stopped listening on port 36165
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1552213584031	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pHHVklovwiHx"
+*** You are running in headless mode.
+1552213584319	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552213584319	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552213585247	Marionette	INFO	Listening on port 34065
+1552213585339	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552213586253	Marionette	INFO	Stopped listening on port 34065
+[Parent 5353, Gecko_IOThread] WARNING: pipe error (63): Connection reset by peer: file /build/src/firefox-65.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+[Parent 5353, Gecko_IOThread] WARNING: pipe error (124): Connection reset by peer: file /build/src/firefox-65.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1552213631310	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.0gXuabYK97QK"
+*** You are running in headless mode.
+1552213631592	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552213631592	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552213632535	Marionette	INFO	Listening on port 35277
+1552213632615	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552213633905	Marionette	INFO	Stopped listening on port 35277
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 5764, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/src/firefox-65.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+1552213688853	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Y4sMPm7P5Xzi"
+*** You are running in headless mode.
+1552213689203	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552213689204	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552213690076	Marionette	INFO	Listening on port 36389
+1552213690166	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://connect.facebook.net/en_US/fbevents.js, line 25: : 
+1552213692279	Marionette	INFO	Stopped listening on port 36389
+1552213739660	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rlPBjkrfQvTc"
+*** You are running in headless mode.
+1552213739954	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552213739954	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552213741043	Marionette	INFO	Listening on port 44765
+1552213741084	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552213743318	Marionette	INFO	Stopped listening on port 44765
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x52000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1552215612662	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.MylXbH2PN5X5"
+*** You are running in headless mode.
+1552215613616	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552215613616	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552215617009	Marionette	INFO	Listening on port 34157
+1552215617057	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://connect.facebook.net/en_US/fbevents.js, line 25: : 
+1552215619671	Marionette	INFO	Stopped listening on port 34157
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x52000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x52000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1552215648080	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.qjAq67lYKeED"
+*** You are running in headless mode.
+1552215648794	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552215648794	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552215652423	Marionette	INFO	Listening on port 42825
+1552215652458	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552215654104	Marionette	INFO	Stopped listening on port 42825
+1552215681247	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Z09uibRF8fJ1"
+*** You are running in headless mode.
+1552215681890	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552215681891	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552215685285	Marionette	INFO	Listening on port 35371
+1552215685319	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552215687005	Marionette	INFO	Stopped listening on port 35371
+1552215718121	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.DhzB0HfkARkF"
+*** You are running in headless mode.
+1552215718712	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552215718712	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552215721965	Marionette	INFO	Listening on port 40681
+1552215722003	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552215724815	Marionette	INFO	Stopped listening on port 40681
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Parent 9888, Gecko_IOThread] WARNING: pipe error (118): Connection reset by peer: file /build/src/firefox-65.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1552215741381	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3RUEmo9ugROu"
+*** You are running in headless mode.
+1552215742308	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552215742309	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552215745456	Marionette	INFO	Listening on port 38169
+1552215745562	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552215747586	Marionette	INFO	Stopped listening on port 38169
+1552215773965	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.bFdQCrVZxbmG"
+*** You are running in headless mode.
+1552215774759	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552215774759	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552215778356	Marionette	INFO	Listening on port 41307
+1552215778445	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552215780231	Marionette	INFO	Stopped listening on port 41307
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1552215795515	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.dHGIm7UrF2X0"
+*** You are running in headless mode.
+1552215796146	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552215796146	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552215799642	Marionette	INFO	Listening on port 42055
+1552215799716	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552215801782	Marionette	INFO	Stopped listening on port 42055
+[Parent 10739, Gecko_IOThread] WARNING: pipe error (132): Connection reset by peer: file /build/src/firefox-65.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1552220165717	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.fcNkRHtUXfvx"
+*** You are running in headless mode.
+1552220165998	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552220165999	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552220166917	Marionette	INFO	Listening on port 44497
+1552220166930	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552220169435	Marionette	INFO	Stopped listening on port 44497
+[Parent 15803, Gecko_IOThread] WARNING: pipe error (122): Connection reset by peer: file /build/src/firefox-65.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1552220169799	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.B70TURDCMEoO"
+*** You are running in headless mode.
+1552220170158	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552220170159	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552220171148	Marionette	INFO	Listening on port 46351
+1552220171205	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552220172579	Marionette	INFO	Stopped listening on port 46351
+[Child 16307, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/src/firefox-65.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1552220538677	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XeADf7eEO4SI"
+*** You are running in headless mode.
+1552220538957	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552220538957	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552220539904	Marionette	INFO	Listening on port 46031
+1552220539996	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552220546729	Marionette	INFO	Stopped listening on port 46031
+JavaScript error: https://connect.facebook.net/en_US/fbevents.js, line 25: : 
+[Parent 17608, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/src/firefox-65.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 17608, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/src/firefox-65.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 17608, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/src/firefox-65.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+1552220594810	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.QrAMrpTCBmqm"
+*** You are running in headless mode.
+1552220595090	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552220595090	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552220596044	Marionette	INFO	Listening on port 39833
+1552220596117	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552220601277	Marionette	INFO	Stopped listening on port 39833
+[Parent 18055, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/src/firefox-65.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+1552220620518	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.wmxNnXgaBbMi"
+*** You are running in headless mode.
+1552220620806	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552220620806	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552220621747	Marionette	INFO	Listening on port 38269
+1552220621824	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://connect.facebook.net/en_US/fbevents.js, line 25: : 
+1552220627157	Marionette	INFO	Stopped listening on port 38269
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 597: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+[Parent 18424, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/src/firefox-65.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+1552220647252	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Mq1x3Dll0ApB"
+*** You are running in headless mode.
+1552220647539	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552220647539	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552220648497	Marionette	INFO	Listening on port 41627
+1552220648558	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552220652179	Marionette	INFO	Stopped listening on port 41627
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+[Parent 18822, Gecko_IOThread] WARNING: pipe error (122): Connection reset by peer: file /build/src/firefox-65.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1552220677901	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.50ZEmr46EsVx"
+*** You are running in headless mode.
+1552220678178	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552220678178	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552220679113	Marionette	INFO	Listening on port 38959
+1552220679206	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://connect.facebook.net/en_US/fbevents.js, line 25: : 
+1552220686018	Marionette	INFO	Stopped listening on port 38959
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 19197, Gecko_IOThread] WARNING: pipe error (82): Connection reset by peer: file /build/src/firefox-65.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+[Parent 19197, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/src/firefox-65.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1552220704477	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.xWgz7OIEnotR"
+*** You are running in headless mode.
+1552220704765	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552220704765	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552220705756	Marionette	INFO	Listening on port 43773
+1552220705794	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://connect.facebook.net/en_US/fbevents.js, line 25: : 
+1552220709362	Marionette	INFO	Stopped listening on port 43773
+1552220763592	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.0QtlHHLTa3Ah"
+*** You are running in headless mode.
+1552220763886	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552220763888	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552220764836	Marionette	INFO	Listening on port 43423
+1552220764898	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552220766953	Marionette	INFO	Stopped listening on port 43423
+[Parent 20263, Gecko_IOThread] WARNING: pipe error (122): Connection reset by peer: file /build/src/firefox-65.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1552220784639	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3Lzxqsg5ktbf"
+*** You are running in headless mode.
+1552220784944	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552220784944	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552220785920	Marionette	INFO	Listening on port 42393
+1552220785946	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552220787945	Marionette	INFO	Stopped listening on port 42393
+[Child 20793, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/src/firefox-65.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1552221418916	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.RfAUUDAWLClY"
+*** You are running in headless mode.
+1552221419223	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552221419223	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552221420246	Marionette	INFO	Listening on port 44767
+1552221420322	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552221423193	Marionette	INFO	Stopped listening on port 44767
+1552232191702	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.iPtlAfInBwz7"
+*** You are running in headless mode.
+1552232193400	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552232193401	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552232195822	Marionette	INFO	Listening on port 40435
+1552232195858	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552232198520	Marionette	INFO	Stopped listening on port 40435
+1552232213738	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ZDWIGfbpOHNv"
+*** You are running in headless mode.
+1552232214021	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552232214021	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552232214985	Marionette	INFO	Listening on port 46601
+1552232215053	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552232216138	Marionette	INFO	Stopped listening on port 46601
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+1552232254453	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.k8Xii60qX4Bb"
+*** You are running in headless mode.
+1552232254739	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552232254739	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552232255693	Marionette	INFO	Listening on port 34823
+1552232255760	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552232256691	Marionette	INFO	Stopped listening on port 34823
+[Parent 6291, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/src/firefox-65.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1552232320612	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.drJnJ5YtOfcI"
+*** You are running in headless mode.
+1552232320912	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552232320912	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552232321865	Marionette	INFO	Listening on port 33091
+1552232321919	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://connect.facebook.net/en_US/fbevents.js, line 25: : 
+1552232323970	Marionette	INFO	Stopped listening on port 33091
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 6876, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/src/firefox-65.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1552232333359	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.fuyU1lg3nxnm"
+*** You are running in headless mode.
+1552232333644	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552232333644	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552232334594	Marionette	INFO	Listening on port 44893
+1552232334671	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552232336562	Marionette	INFO	Stopped listening on port 44893
+[Parent 7050, Gecko_IOThread] WARNING: pipe error (88): Connection reset by peer: file /build/src/firefox-65.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1552232346588	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Rmtso0Xxbh8m"
+*** You are running in headless mode.
+1552232346886	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552232346886	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552232347822	Marionette	INFO	Listening on port 40367
+1552232347893	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552232349747	Marionette	INFO	Stopped listening on port 40367
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+1552232408056	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.YAkIdmokNQvi"
+*** You are running in headless mode.
+1552232408347	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552232408347	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552232409174	Marionette	INFO	Listening on port 46701
+1552232409270	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552232414393	Marionette	INFO	Stopped listening on port 46701
+[Parent 7752, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/src/firefox-65.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+1552232520183	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.soHIAui8gfxk"
+*** You are running in headless mode.
+1552232520473	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552232520473	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552232521457	Marionette	INFO	Listening on port 34351
+1552232521498	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552232523223	Marionette	INFO	Stopped listening on port 34351
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 8296, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/src/firefox-65.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+1552232524461	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.lbO476oUoS5l"
+*** You are running in headless mode.
+1552232524959	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552232524959	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552232526365	Marionette	INFO	Listening on port 45617
+1552232526380	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552232529183	Marionette	INFO	Stopped listening on port 45617
+[Child 8807, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/src/firefox-65.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1552232678261	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.IzuorvY8qTB1"
+*** You are running in headless mode.
+1552232678602	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552232678602	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552232679551	Marionette	INFO	Listening on port 37423
+1552232679569	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552232680974	Marionette	INFO	Stopped listening on port 37423
+1552232851965	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ggG2JrxWYpdx"
+*** You are running in headless mode.
+1552232852252	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552232852252	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552232853215	Marionette	INFO	Listening on port 43883
+1552232853269	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://connect.facebook.net/en_US/fbevents.js, line 25: : 
+1552232855556	Marionette	INFO	Stopped listening on port 43883
+1552232992336	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.g4Cu5ajz67Tt"
+*** You are running in headless mode.
+1552232992647	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552232992647	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552232993560	Marionette	INFO	Listening on port 38789
+1552232993642	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552232995320	Marionette	INFO	Stopped listening on port 38789
+[Parent 10050, Gecko_IOThread] WARNING: pipe error (54): Connection reset by peer: file /build/src/firefox-65.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1552233046575	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.kgNrcFbmEbY1"
+*** You are running in headless mode.
+1552233046863	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552233046863	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552233047840	Marionette	INFO	Listening on port 38873
+1552233047882	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552233048847	Marionette	INFO	Stopped listening on port 38873
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1552233176552	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.xb2eXtYauMtV"
+*** You are running in headless mode.
+1552233176909	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552233176909	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552233177889	Marionette	INFO	Listening on port 39579
+1552233177957	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552233179049	Marionette	INFO	Stopped listening on port 39579
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+[Parent 10961, Gecko_IOThread] WARNING: pipe error (123): Connection reset by peer: file /build/src/firefox-65.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1552233231070	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.SzsjX5VmnYU4"
+*** You are running in headless mode.
+1552233231477	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552233231477	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552233231509	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.iFC7uqEl8dOC"
+*** You are running in headless mode.
+1552233232039	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552233232039	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552233233231	Marionette	INFO	Listening on port 39389
+1552233233290	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552233233981	Marionette	INFO	Listening on port 33133
+1552233234054	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://connect.facebook.net/en_US/fbevents.js, line 25: : 
+1552233235255	Marionette	INFO	Stopped listening on port 33133
+1552233235359	Marionette	INFO	Stopped listening on port 39389
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+[Child 11572, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/src/firefox-65.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5F0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 11379, Gecko_IOThread] WARNING: pipe error (74): Connection reset by peer: file /build/src/firefox-65.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1552233437100	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.hOMaUcIy4aKe"
+*** You are running in headless mode.
+1552233437387	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552233437387	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552233438341	Marionette	INFO	Listening on port 33877
+1552233438406	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552233439385	Marionette	INFO	Stopped listening on port 33877
+1552233495049	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.AsosKQhHtpcF"
+*** You are running in headless mode.
+1552233495352	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552233495352	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552233496324	Marionette	INFO	Listening on port 40835
+1552233496368	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552233497609	Marionette	INFO	Stopped listening on port 40835
+[Parent 12355, Gecko_IOThread] WARNING: pipe error (88): Connection reset by peer: file /build/src/firefox-65.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1552233552613	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.OU796aNGBhAR"
+*** You are running in headless mode.
+1552233552904	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552233552904	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552233553828	Marionette	INFO	Listening on port 46031
+1552233553926	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552233555094	Marionette	INFO	Stopped listening on port 46031
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+1552233644336	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.U97nXW9bjaDe"
+*** You are running in headless mode.
+1552233644633	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552233644633	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552233645608	Marionette	INFO	Listening on port 45955
+1552233645647	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552233647191	Marionette	INFO	Stopped listening on port 45955
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Parent 13145, Gecko_IOThread] WARNING: pipe error (122): Connection reset by peer: file /build/src/firefox-65.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1552233722906	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.LIfXgmd5Bj1p"
+*** You are running in headless mode.
+1552233723216	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552233723217	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552233724207	Marionette	INFO	Listening on port 39737
+1552233724213	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552233726310	Marionette	INFO	Stopped listening on port 39737
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 13541, Gecko_IOThread] WARNING: pipe error (121): Connection reset by peer: file /build/src/firefox-65.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1552233785016	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.VFUUcWJ5TUNc"
+*** You are running in headless mode.
+1552233785313	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552233785314	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552233786269	Marionette	INFO	Listening on port 39641
+1552233786322	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552233787366	Marionette	INFO	Stopped listening on port 39641
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1552233846107	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5gaEN0pVX5EM"
+*** You are running in headless mode.
+1552233846403	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552233846404	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552233847385	Marionette	INFO	Listening on port 41007
+1552233847428	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552233848713	Marionette	INFO	Stopped listening on port 41007
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+[Child 14495, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/src/firefox-65.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1552233972871	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.RGAlpaKbS4gF"
+*** You are running in headless mode.
+1552233973159	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552233973159	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552233974106	Marionette	INFO	Listening on port 36777
+1552233974187	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552233975299	Marionette	INFO	Stopped listening on port 36777
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+[Parent 14873, Gecko_IOThread] WARNING: pipe error (88): Connection reset by peer: file /build/src/firefox-65.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1552234032243	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.q1ieVKaB9BcX"
+*** You are running in headless mode.
+1552234032536	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552234032536	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552234033523	Marionette	INFO	Listening on port 34709
+1552234033552	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552234034538	Marionette	INFO	Stopped listening on port 34709
+[Parent 15280, Gecko_IOThread] WARNING: pipe error (121): Connection reset by peer: file /build/src/firefox-65.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1552234099526	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.vUlv9wVBP0FN"
+*** You are running in headless mode.
+1552234099828	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552234099828	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552234100846	Marionette	INFO	Listening on port 33873
+1552234100945	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552234102389	Marionette	INFO	Stopped listening on port 33873
+[Parent 15646, Gecko_IOThread] WARNING: pipe error (114): Connection reset by peer: file /build/src/firefox-65.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1552234183935	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6vBaNFzVrZWd"
+*** You are running in headless mode.
+1552234184266	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552234184266	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552234185317	Marionette	INFO	Listening on port 37673
+1552234185344	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552234186422	Marionette	INFO	Stopped listening on port 37673
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 597: TypeError: this.tablesData[table] is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 15991, Gecko_IOThread] WARNING: pipe error (121): Connection reset by peer: file /build/src/firefox-65.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1552234238579	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.viXKzUF2OSBu"
+*** You are running in headless mode.
+1552234238871	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552234238871	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552234239863	Marionette	INFO	Listening on port 35211
+1552234239887	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552234240922	Marionette	INFO	Stopped listening on port 35211
+[Parent 16432, Gecko_IOThread] WARNING: pipe error (103): Connection reset by peer: file /build/src/firefox-65.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1552234256377	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ycEvNQ9eau0v"
+*** You are running in headless mode.
+1552234256720	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552234256720	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552234257743	Marionette	INFO	Listening on port 45615
+1552234257789	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552234258911	Marionette	INFO	Stopped listening on port 45615
+[Parent 16820, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/src/firefox-65.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+1552234302598	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.frfNMEGlfgqP"
+*** You are running in headless mode.
+1552234302889	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552234302889	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552234303724	Marionette	INFO	Listening on port 41111
+1552234303812	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552234305943	Marionette	INFO	Stopped listening on port 41111
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1552235826380	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.NBYKEA8LJSR4"
+*** You are running in headless mode.
+1552235826857	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552235826858	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552235828354	Marionette	INFO	Listening on port 39109
+1552235828410	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552235830068	Marionette	INFO	Stopped listening on port 39109
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1552235874528	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.TaFZnsZRpS04"
+*** You are running in headless mode.
+1552235875082	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552235875082	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552235876860	Marionette	INFO	Listening on port 36583
+1552235876940	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552235879432	Marionette	INFO	Stopped listening on port 36583
+1552235905333	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rf0BGFMtMSp8"
+*** You are running in headless mode.
+1552235905759	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552235905759	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552235907473	Marionette	INFO	Listening on port 35343
+1552235907544	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552235909764	Marionette	INFO	Stopped listening on port 35343
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Parent 20101, Gecko_IOThread] WARNING: pipe error (121): Connection reset by peer: file /build/src/firefox-65.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1552235928111	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.O2ldT35LPOoI"
+*** You are running in headless mode.
+1552235928678	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552235928678	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552235930250	Marionette	INFO	Listening on port 45183
+1552235930337	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://connect.facebook.net/en_US/fbevents.js, line 25: : 
+1552235932834	Marionette	INFO	Stopped listening on port 45183
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x520011,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5F0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1552235975982	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.yvLESszkInW7"
+*** You are running in headless mode.
+1552235976586	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552235976587	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552235978149	Marionette	INFO	Listening on port 36187
+1552235978204	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552235980834	Marionette	INFO	Stopped listening on port 36187
+1552236316757	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pAp8VcdUX7Nd"
+*** You are running in headless mode.
+1552236317281	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552236317281	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552236319003	Marionette	INFO	Listening on port 33533
+1552236319074	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://connect.facebook.net/en_US/fbevents.js, line 25: : 
+1552236322673	Marionette	INFO	Stopped listening on port 33533
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 21847, Gecko_IOThread] WARNING: pipe error (122): Connection reset by peer: file /build/src/firefox-65.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1552236392783	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.QFlhZG46PAPL"
+*** You are running in headless mode.
+1552236393281	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552236393281	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552236394976	Marionette	INFO	Listening on port 46171
+1552236395000	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552236398277	Marionette	INFO	Stopped listening on port 46171
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+1552237809286	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.xXrxojUKCd61"
+*** You are running in headless mode.
+1552237809823	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552237809824	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552237811313	Marionette	INFO	Listening on port 34899
+1552237811396	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552237813428	Marionette	INFO	Stopped listening on port 34899
+[Parent 24678, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/src/firefox-65.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+1552237850065	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XVqstyDdBN53"
+*** You are running in headless mode.
+1552237850517	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552237850517	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552237852175	Marionette	INFO	Listening on port 41485
+1552237852199	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552237853740	Marionette	INFO	Stopped listening on port 41485
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 25101, Gecko_IOThread] WARNING: pipe error (103): Connection reset by peer: file /build/src/firefox-65.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1552237921774	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pQClix2GDLVo"
+*** You are running in headless mode.
+1552237922250	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552237922251	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552237923758	Marionette	INFO	Listening on port 43717
+1552237923811	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552237925389	Marionette	INFO	Stopped listening on port 43717
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1552240076940	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8gkHn5QV5Yq8"
+*** You are running in headless mode.
+1552240077409	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552240077409	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552240078890	Marionette	INFO	Listening on port 33567
+1552240078949	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552240081410	Marionette	INFO	Stopped listening on port 33567
+[Parent 27609, Gecko_IOThread] WARNING: pipe error (122): Connection reset by peer: file /build/src/firefox-65.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
