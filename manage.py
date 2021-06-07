@@ -3,8 +3,8 @@ import json
 import os
 from random import randint,choice
 import string
-import sys
-from flask import Flask,render_template,request,redirect,url_for,make_response
+import sys 
+from flask import Flask,render_template,request,redirect,url_for,make_response,send_file
 import tensorflow as tf
 import tensorflow.keras as keras
 from tensorflow.keras.models import load_model
@@ -40,7 +40,8 @@ def loadModelParams(paramFilePath):
     return modelParams
 @app.route("/")
 def index():
-    return render_template("index.html")
+    script = url_for(".static",filename = "js/script.js")
+    return render_template("index.html",script = script)
 @app.route("/test",methods=["POST"])
 def test(): 
     if(request.form["seed"] == ""):
@@ -67,5 +68,8 @@ def send():
     r = requests.post("https://hackicims.com/api/v1/companies/103/jobs",data=payload,headers=headers)
     print(r.status_code,file=sys.stderr)
     return redirect(url_for("index"))
+@app.route("/haha")
+def testing():
+    return url_for(".static",filename="chaebae.jpg")
 if __name__ == "__main__":
     app.run(host="127.0.0.1",debug=True,port="8000")
